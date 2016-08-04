@@ -1,0 +1,53 @@
+
+body{
+	background-image: url("fundo.png");
+	background-position:center;
+}
+
+div#interface {
+    width: 85%;
+    background-color: #190707;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    padding: 10px;
+}
+
+h1{
+	color:#610B0B;
+	font-size:90pt;
+	text-align:center;
+	font-style:oblique;
+	font-family: 'supernatural knight';
+	text-shadow: 0 0 0.2em #FE2E2E, 0 0 0.2em #FE2E2E;
+	
+}
+h2{
+	color:#8A0808;
+	font-family:Monotype Corsiva;
+	font-size:30pt;
+	text-align:left;
+	margin-top: 100px;
+}
+h3{
+	color:#3B0B0B;
+	font-family:Lucida Handwriting;
+	font-size:25pt;
+	text-align:left;
+}	
+h4{
+	color:#B40404;
+	font-family:Lucida Handwriting;
+	font-size:25pt;
+	text-align:center;
+	text-shadow: 0 0 0.2em #FE2E2E, 0 0 0.2em #FE2E2E;
+}	
+p{	
+    text-align:left;
+	font-family:'Indie Flower';
+	font-size:20pt;
+	color:#FFFFFF;
+	margin-left: 25px;
+	margin-right: 25px;
+     text-decoration: justify;
+       
+}
